@@ -7,3 +7,4 @@ jupyter/glove.6B.300d.txt
 jupyter/glove.6B.50d.txt
 jupyter/glove.6B.zip
 glove*
+extra_train
